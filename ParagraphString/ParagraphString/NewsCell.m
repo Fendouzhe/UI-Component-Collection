@@ -2,7 +2,7 @@
 //  NewsCell.m
 //  ParagraphString
 //
-//  Created by YouXianMing on 2016/11/16.
+//  Created by LeiLuRong on 2016/11/16.
 //  Copyright © 2016年 TechCode. All rights reserved.
 //
 

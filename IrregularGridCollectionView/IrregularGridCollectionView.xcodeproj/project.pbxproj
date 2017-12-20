@@ -177,7 +177,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = YouXianMing;
+				ORGANIZATIONNAME = LeiLuRong;
 				TargetAttributes = {
 					C56811EE1D75578C006E6C49 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -357,7 +357,7 @@
 				DEVELOPMENT_TEAM = HT95VAK372;
 				INFOPLIST_FILE = IrregularGridCollectionView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YouXianMing.IrregularGridCollectionView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.IrregularGridCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -369,7 +369,7 @@
 				DEVELOPMENT_TEAM = HT95VAK372;
 				INFOPLIST_FILE = IrregularGridCollectionView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YouXianMing.IrregularGridCollectionView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.IrregularGridCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

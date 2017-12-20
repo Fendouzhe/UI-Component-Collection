@@ -117,7 +117,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = XianMingYou;
+				ORGANIZATIONNAME = LeiLuRong;
 				TargetAttributes = {
 					101CCFAE1ADF4EE9000AF58A = {
 						CreatedOnToolsVersion = 6.3;
@@ -283,7 +283,7 @@
 				INFOPLIST_FILE = TransformationFadeView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.YouXianMing.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.TransformationFadeView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -295,7 +295,7 @@
 				INFOPLIST_FILE = TransformationFadeView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.YouXianMing.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.TransformationFadeView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

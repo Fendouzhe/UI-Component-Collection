@@ -2,7 +2,7 @@
 //  AbstractAlertView.m
 //  AlertViewDemo
 //
-//  Created by YouXianMing on 15/10/15.
+//  Created by LeiLuRong on 15/10/15.
 //
 
 #import "AbstractAlertView.h"

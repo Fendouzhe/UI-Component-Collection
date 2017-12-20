@@ -2,8 +2,8 @@
 //  UIView+SetRect.h
 //  TestPch
 //
-//  Created by YouXianMing on 14-12-26.
-//  Copyright (c) 2014年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 14-12-26.
+//  Copyright (c) 2014年 LeiLuRong. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

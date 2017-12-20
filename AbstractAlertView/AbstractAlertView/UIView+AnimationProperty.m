@@ -2,7 +2,7 @@
 //  UIView+AnimationProperty.m
 //  AlertViewDemo
 //
-//  Created by YouXianMing on 15/10/15.
+//  Created by LeiLuRong on 15/10/15.
 //  Copyright © 2015年 ZiPeiYi. All rights reserved.
 //
 

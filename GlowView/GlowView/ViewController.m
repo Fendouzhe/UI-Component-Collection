@@ -2,8 +2,8 @@
 //  ViewController.m
 //  GlowView
 //
-//  Created by YouXianMing on 15/7/4.
-//  Copyright (c) 2015年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 15/7/4.
+//  Copyright (c) 2015年 LeiLuRong. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -21,7 +21,7 @@
     
     {
         UILabel *label  = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 200, 50)];
-        label.text      = @"YouXianMing";
+        label.text      = @"LeiLuRong";
         label.textColor = [UIColor blackColor];
         label.font      = [UIFont fontWithName:@"AppleSDGothicNeo-Thin" size:20.f];
         label.center    = self.view.center;

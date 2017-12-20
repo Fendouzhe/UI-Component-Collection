@@ -2,8 +2,8 @@
 //  ReplicatorLineAnimationView.m
 //  Animations
 //
-//  Created by YouXianMing on 16/4/12.
-//  Copyright © 2016年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 16/4/12.
+//  Copyright © 2016年 LeiLuRong. All rights reserved.
 //
 
 #import "ReplicatorLineAnimationView.h"

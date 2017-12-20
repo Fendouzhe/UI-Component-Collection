@@ -1,9 +1,9 @@
 //
 //  FontInfomation.h
-//  YouXianMing
+//  LeiLuRong
 //
-//  Created by XianMingYou on 15/2/11.
-//  Copyright (c) 2015年 XianMingYou. All rights reserved.
+//  Created by LeiLuRong on 15/2/11.
+//  Copyright (c) 2015年 LeiLuRong. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

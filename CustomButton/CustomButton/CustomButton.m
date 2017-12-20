@@ -2,8 +2,8 @@
 //  CustomButton.m
 //  CustomButton
 //
-//  Created by YouXianMing on 16/5/21.
-//  Copyright © 2016年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 16/5/21.
+//  Copyright © 2016年 LeiLuRong. All rights reserved.
 //
 
 #import "CustomButton.h"

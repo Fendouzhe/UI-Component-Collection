@@ -1,8 +1,8 @@
 //
 //  WxHxD.h
 //
-//  Created by YouXianMing on 14/10/29.
-//  Copyright (c) 2014年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 14/10/29.
+//  Copyright (c) 2014年 LeiLuRong. All rights reserved.
 //
 
 // 宽度

@@ -2,8 +2,8 @@
 //  ParagraphAttributes.h
 //  BookTextView
 //
-//  Created by YouXianMing on 15/5/18.
-//  Copyright (c) 2015年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 15/5/18.
+//  Copyright (c) 2015年 LeiLuRong. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -2,8 +2,8 @@
 //  ViewController.m
 //  TapLabelView
 //
-//  Created by YouXianMing on 15/6/13.
-//  Copyright (c) 2015年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 15/6/13.
+//  Copyright (c) 2015年 LeiLuRong. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -26,7 +26,7 @@
     self.view.backgroundColor = [UIColor blackColor];
     
     // 创建富文本
-    NSString *string = @"Between the husband and earth, each master. All Gou Fei Wu, although a little and Mo to take. YouXianMing but the river breeze, and the mountain of the moon, ear and sound, eyes meet and fineness. Take no ban, be inexhaustible. Is also the creator of the endless Tibet, and I and the children were appropriate.\n夫天地之间，物各有主。苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色。 取之无禁，用之不竭。是造物者之无尽藏也，而吾与子之所共适。";
+    NSString *string = @"Between the husband and earth, each master. All Gou Fei Wu, although a little and Mo to take. LeiLuRong but the river breeze, and the mountain of the moon, ear and sound, eyes meet and fineness. Take no ban, be inexhaustible. Is also the creator of the endless Tibet, and I and the children were appropriate.\n夫天地之间，物各有主。苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色。 取之无禁，用之不竭。是造物者之无尽藏也，而吾与子之所共适。";
     NSMutableParagraphStyle *style = [NSMutableParagraphStyle new];
     style.lineSpacing              = 4.f;
     style.paragraphSpacing         = style.lineSpacing * 4;
@@ -43,7 +43,7 @@
     self.attributeLabelView.linkColor          = [UIColor cyanColor];
     
     // 添加超链接
-    NSRange range1 = [string rangeOfString:@"YouXianMing"];
+    NSRange range1 = [string rangeOfString:@"LeiLuRong"];
     [self.attributeLabelView addLinkStringRange:range1 flag:@"link1"];
     
     NSRange range2 = [string rangeOfString:@"inexhaustible"];

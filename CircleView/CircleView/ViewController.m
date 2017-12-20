@@ -2,8 +2,8 @@
 //  ViewController.m
 //  CircleView
 //
-//  Created by YouXianMing on 15/11/12.
-//  Copyright (c) 2015年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 15/11/12.
+//  Copyright (c) 2015年 LeiLuRong. All rights reserved.
 //
 
 #import "ViewController.h"

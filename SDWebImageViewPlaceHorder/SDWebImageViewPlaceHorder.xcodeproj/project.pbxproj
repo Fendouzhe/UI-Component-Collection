@@ -209,7 +209,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = YouXianMing;
+				ORGANIZATIONNAME = LeiLuRong;
 				TargetAttributes = {
 					C581C7281D67090700CC552D = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -391,7 +391,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SDWebImageViewPlaceHorder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YouXianMing.SDWebImageViewPlaceHorder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.SDWebImageViewPlaceHorder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -402,7 +402,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SDWebImageViewPlaceHorder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YouXianMing.SDWebImageViewPlaceHorder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.SDWebImageViewPlaceHorder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

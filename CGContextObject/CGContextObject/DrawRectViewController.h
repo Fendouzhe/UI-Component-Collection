@@ -2,7 +2,7 @@
 //  DrawRectViewController.h
 //  CGContextObject
 //
-//  Created by YouXianMing on 15/11/12.
+//  Created by LeiLuRong on 15/11/12.
 //  Copyright © 2015年 ZiPeiYi. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  main.m
 //  ParagraphString
 //
-//  Created by YouXianMing on 2016/11/14.
+//  Created by LeiLuRong on 2016/11/14.
 //  Copyright © 2016年 TechCode. All rights reserved.
 //
 

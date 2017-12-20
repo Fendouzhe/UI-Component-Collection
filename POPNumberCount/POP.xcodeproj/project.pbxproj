@@ -272,7 +272,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = XianMingYou;
+				ORGANIZATIONNAME = LeiLuRong;
 				TargetAttributes = {
 					1002E9181AD7657E00C7C515 = {
 						CreatedOnToolsVersion = 6.2;
@@ -456,7 +456,7 @@
 				GCC_PREFIX_HEADER = "$(SRCROOT)/$(PROJECT_NAME)/POP.pch";
 				INFOPLIST_FILE = POP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.YouXianMing.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.POP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -469,7 +469,7 @@
 				GCC_PREFIX_HEADER = "$(SRCROOT)/$(PROJECT_NAME)/POP.pch";
 				INFOPLIST_FILE = POP/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.YouXianMing.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.LeiLuRong.POP;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

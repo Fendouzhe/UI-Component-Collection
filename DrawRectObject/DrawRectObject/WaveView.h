@@ -2,8 +2,8 @@
 //  WaveView.h
 //  DrawRectObject
 //
-//  Created by YouXianMing on 16/8/1.
-//  Copyright © 2016年 YouXianMing. All rights reserved.
+//  Created by LeiLuRong on 16/8/1.
+//  Copyright © 2016年 LeiLuRong. All rights reserved.
 //
 
 #import "CustomDrawingView.h"

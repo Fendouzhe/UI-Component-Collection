@@ -2,10 +2,8 @@
 //  ComplexEasingValue.swift
 //  Swift-EasingAnimation
 //
-//  Created by YouXianMing on 15/10/21.
+//  Created by LeiLuRong on 15/10/21.
 //
-//  https://github.com/YouXianMing
-//  http://home.cnblogs.com/u/YouXianMing/
 //
 
 import UIKit
